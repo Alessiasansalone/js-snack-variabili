@@ -26,10 +26,19 @@ Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa 
  */
 
 PI = '3.1416'
-console.log(PI)
+console.log(PI) // chiedere spiegazioni
+
 
 /* Esercizio 2/C
 - Dichiara una variabile chiamata radius e assegnale il valore 8.
 - Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
 - Stampa il valore della variabile circle in console.
  */
+
+//Dichiarazione variabile
+let radius
+// Assegnazione variabile
+radius = 8 // number
+
+// Moltiplicazione e stampa
+console.log(radius * PI * 2)
