@@ -42,3 +42,23 @@ radius = 8 // number
 
 // Moltiplicazione e stampa
 console.log(radius * PI * 2)
+
+
+/* Esercizio 3
+Dichiara una variabile chiamata name e
+assegnale il valore “Carlo”.
+Successivamente, modifica il valore della variabile in “Marco”.
+Stampa il nuovo valore in console.
+ */
+
+// Dichiarazione
+let name
+//Assegnazione
+name = 'Carlo' // string
+// Stampa di prova
+console.log(name)
+
+// Nuovo nome
+name = 'Marco' // string
+// Stampa nuovo nome 
+console.log(name)
