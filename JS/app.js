@@ -41,7 +41,7 @@ let radius
 radius = 8 // number
 
 // Moltiplicazione
-let mul = radius * 2 * PI 
+let mul = radius * 2 * PI // number
 
 // Stampa
 console.log(mul)
