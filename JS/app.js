@@ -40,8 +40,11 @@ let radius
 // Assegnazione variabile
 radius = 8 // number
 
-// Moltiplicazione e stampa
-console.log(radius * PI * 2)
+// Moltiplicazione
+let mul = radius * 2 * PI 
+
+// Stampa
+console.log(mul)
 
 
 /* Esercizio 3
